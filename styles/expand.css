@@ -1,0 +1,1 @@
+.expand{border:15px solid coral;background:coral;border-radius:5px}.expand:hover{border:30px solid coral}.expand-text{position:absolute}.expand-text-window{width:200px;height:200px;position:absolute;margin:10px;border:15px solid coral;border-radius:5px;padding:10px;background-color:coral;z-index:11000!important;opacity:1}.globalTextWindow{cursor:pointer}
